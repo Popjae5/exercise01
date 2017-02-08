@@ -49,6 +49,7 @@ class App extends Component {
     <div className="hero-body">
         <p className="control is-fullwidth">
           <center>
+            <b> Test Edit by Saruouka </b>
             <TodoSelect2/>
           </center>
         </p>
